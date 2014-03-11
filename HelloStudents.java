@@ -19,4 +19,5 @@ public static void main(String[] args) {
   System.out.println("Hello from Curtis Altoveros");
   System.out.println("Hello from Anjelica Hadsell");
   System.out.println("THis should BE ANOTHER STUDENT);
+  System.out.println("Hello from Kali Setzer");
 }
