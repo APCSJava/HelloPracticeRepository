@@ -1,5 +1,5 @@
 /*
-*  Convert user input in the format xxxF or yyyC from Celsius to Farenheit
+*  Convert user input in the format xxxF or yyyC between Celsius and Farenheit
 *
 *  @author Kent Collins
 *  @version 25 September, 2014
