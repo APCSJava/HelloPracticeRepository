@@ -25,4 +25,22 @@ public class Igpay {
 		// TODO Transform the word into a new String
 		// TODO Print the result to the console
 	}
+	
+	/*
+	 * Locates the position in a string of the first vowel
+	 * 
+	 * @param s The string to be analyzed.  
+	 * 
+	 * @return 	The position (index) of the first vowel or -1 if no vowels present.
+	 */
+	public static int findFirstVowel(String s) {
+		for (int i = 0; i<s.length(); i++) {
+			char letter = s.charAt(i);
+			if (letter=='a' || letter=='e' || letter=='i' || letter =='o' || letter =='u') {
+				return i;
+			}
+		
+		}	return -1;
+		
+	}
 }
