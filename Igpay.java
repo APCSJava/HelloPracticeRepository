@@ -3,7 +3,7 @@
  * the equivalent word that results from transformation under the rules
  * of Pig Latin.  Words are transformed according to one of three patterns:
  * 
- * for initial consonants, move the leading consonant to the end, + "ay"
+ * for initial consonants, move the leading consonant to the end and add "ay"
  * for initial blends, move the blend to the end and add "ay"
  * for initial vowels, simply add "way" to the end of the word
  * 
