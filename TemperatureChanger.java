@@ -13,6 +13,7 @@ public class TemperatureChanger {
     // TODO - scan for input in the format 175F or 18C 
     // TODO - perform correct conversion
     // TODO - print out results to the screen
+    // TODO - remove the TODO comments
   }
   
 }
